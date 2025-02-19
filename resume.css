@@ -1,0 +1,31 @@
+#header {
+    display:flex;
+    justified-content:center;
+}
+
+#box1, #box2 {
+    border: 3px solid purple;
+    margin: 1px;
+}
+#box1{
+    width: 250px;
+    display:flex;
+}
+#box2 {
+    width: 441px;
+    padding: 1px
+}
+.box3 {
+    width: 700px;
+    
+    border: 3px solid purple;
+}
+
+.resume{
+    width:700px;
+    border: 3px solid purple;
+    margin-top: 1px;
+}
+.photo{
+    margin:5px;
+}
